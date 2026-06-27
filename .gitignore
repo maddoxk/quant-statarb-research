@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# tectonic intermediates
+*.aux
+*.log
+*.out
+*.toc
+paper.bbl
+paper.blg
+
+# OS
+.DS_Store
+Thumbs.db
